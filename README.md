@@ -52,13 +52,26 @@ PROJECT2
 * **CV**, **NeRF(Neural radiance Fields)NeRF(Neural radiance Fields)**, **Image To Text**, 모델들을 이용하고 labeled data를 가지고 특징을 추출하여 영상을 분류하는 학습을 수행하는 방식으로 영상을 인식/분류 하는 기능을 도입 해보려고 합니다. 현재 의학적으로 연구되고 있지만 개인에 맞게 라이트하게 개발을 해보려고 합니다
 
 * 특정 동작 (신체 진단을 위한 동작 예시)_체형 분석 검사 데이터(GPA) 참조
+  
+
    1. 정면, 측면, 후면
-        <img src="./Image/GPA.png" width="200" height="300"/>
+   
+        <img src="./Image/GPA.png" width="400" height="300"/>
+   
+  
+  
    2. 운동 기능 저하 진단
-        <img src="./Image/self_diagnosis.png" width="200" height="300"/>
-   3. 링크 참조 [헬스 셀프 진단 자세](https://www.etoday.co.kr/news/view/1881909)
+        
+        <img src="./Image/self_diagnosis.png" width="300" height="300"/>
+   
+ 
+   3. 링크 참조 
+   
+   [헬스 셀프 진단 자세](https://www.etoday.co.kr/news/view/1881909)
 
 ---
+
+* Operating sequence
 
  ---
  1. Take photos and videos of specific actions
