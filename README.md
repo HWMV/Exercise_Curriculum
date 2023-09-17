@@ -49,9 +49,15 @@ PROJECT2
 
 * **CV**, **NeRF(Neural radiance Fields)NeRF(Neural radiance Fields)**, **Image To Text**, use models and extract features from labeled data to learn to classify images We are planning to introduce a function to recognize/classify images in this way. Although it is currently being medically researched, we are trying to develop it in a light way tailored to each individual.
 
+* Specific movements (examples of movements for physical diagnosis)_Refer to body type analysis test data (GPA)
+
+* We plan to introduce INBODY DATA in the future as well.
+
 * **CV**, **NeRF(Neural radiance Fields)NeRF(Neural radiance Fields)**, **Image To Text**, 모델들을 이용하고 labeled data를 가지고 특징을 추출하여 영상을 분류하는 학습을 수행하는 방식으로 영상을 인식/분류 하는 기능을 도입 해보려고 합니다. 현재 의학적으로 연구되고 있지만 개인에 맞게 라이트하게 개발을 해보려고 합니다
 
 * 특정 동작 (신체 진단을 위한 동작 예시)_체형 분석 검사 데이터(GPA) 참조
+
+* 추후 INBODY DATA도 도입 해보려고 합니다
   
 
    1. 정면, 측면, 후면
